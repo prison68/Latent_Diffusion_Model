@@ -1,7 +1,7 @@
 # Latent Diffusion Model
 This repository contains Latent Diffusion Model(LDM) that can be trained from scratch. [stablediffusion](https://github.com/Stability-AI/StableDiffusion?tab=readme-ov-file) repository only provides inference scripts. I have added training scripts and provided two performance metrics for the text2img task.
 
-[LDMCode_Learing_Record.md](./LDMCode_Learing_Record.md) is my learning record of LDM model network architecture, for reference only.
+[LDMCode_Learing_Record.md](./LDMCode_Learing_Record.md) is my learning record of LDM network architecture, for reference only.
 
 ## Installation
 **Step 1: Clone this repository:**
