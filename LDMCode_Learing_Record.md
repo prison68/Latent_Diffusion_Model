@@ -1,4 +1,4 @@
-# Stable Diffusion 源码学习
+# LDM源码学习
 
 *主要涉及采样算法和U-Net的代码，而不含有关训练、VAE、text encoder（CLIP）的代码*
 
